@@ -51,7 +51,7 @@ I'm a passionate **Cloud Engineering enthusiast** based in Bangalore, India, wit
 
 ## 🌐 Connect With Me
 
-- 🌍 Portfolio: [bhargav59.github.io/Portfolio](http://bhargav-sah.me/)/)
+- 🌍 Portfolio: [bhargav59.github.io/Portfolio](http://bhargav-sah.me/)
 - 🐦 Twitter: [@itsbhargavsah](https://twitter.com/itsbhargavsah)
 - 📧 Email: bhaskarsah878@gmail.com
 

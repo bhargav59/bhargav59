@@ -42,12 +42,8 @@ I'm a passionate **Cloud Engineering enthusiast** based in Bangalore, India, wit
 ## 📊 GitHub Stats
 
 <div align="center">
-  
 ![Bhargav's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=bhargav59&show_icons=true&theme=radical)
-
-
 ![Top Langs](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=bhargav59&layout=compact&theme=radical)
-
 
 </div>
 

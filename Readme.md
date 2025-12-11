@@ -1,70 +1,109 @@
-# Hi there, I'm Bhargav Sah! 👋
+# Hi there, I'm Bhargav Sah! 👋  
+Cloud Engineering | AWS | DevOps Enthusiast  
 
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://bhargav59.github.io/Portfolio/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bhargav-sah.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhargavsah59)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsbhargavsah)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaskarsah878@gmail.com)
 
 </div>
 
-## 🚀 About Me
+---
 
-I'm a passionate **Cloud Engineering enthusiast** based in Bangalore, India, with hands-on experience in AWS services. I'm currently seeking Cloud Engineering Internships where I can apply my skills and contribute to building scalable cloud solutions.
+## 🌩️ About Me
 
-- 🔭 I'm currently working on cloud infrastructure projects
-- 🌱 I'm continuously learning and expanding my AWS expertise
-- 💼 Open to Cloud Engineering Internship opportunities
-- 📫 Reach me at: **bhaskarsah878@gmail.com**
+I'm an aspiring **Cloud Engineer** based in Bangalore, passionate about building scalable, secure, and production-ready cloud infrastructure on AWS.
+
+- 🔭 Currently working on real-world cloud automation projects  
+- 🌱 Expanding my AWS skills across Networking, DevOps & Security  
+- 💼 Looking for **Cloud Engineering Internships**  
+- ✉️ Reach me at: **bhaskarsah878@gmail.com**
+
+---
 
 ## ☁️ Cloud & Technical Skills
 
-### AWS Services
-- **Compute:** EC2
-- **Storage:** S3
-- **Security:** IAM
-- **Networking:** VPC
-- **Database:** RDS
+### **AWS Services**
+- **Compute:** EC2  
+- **Storage:** S3  
+- **Security:** IAM  
+- **Networking:** VPC  
+- **Database:** RDS  
 
-### Core Competencies
-- Cloud Architecture Design
-- Infrastructure as Code
-- Scalable Solutions Development
-- Cloud Security Best Practices
+### **Core Strengths**
+- Infrastructure Design  
+- Cloud Security & Best Practices  
+- Infrastructure as Code (IaC)  
+- Scalable Architecture Development  
+- CI/CD Fundamentals  
 
-## 🎯 What I'm Passionate About
+---
 
-✨ Building **scalable cloud solutions** that solve real-world problems  
-✨ Learning new cloud technologies and best practices  
-✨ Contributing to open-source projects  
-✨ Sharing knowledge with the developer community
+## 🎯 What I Care About
 
-## 📊 GitHub Stats
+✨ Building cloud architectures that solve real-world problems  
+✨ Learning and applying modern cloud engineering practices  
+✨ Contributing to open-source whenever possible  
+✨ Sharing knowledge with the tech community  
 
+---
+
+## 📊 GitHub Analytics  
 <div align="center">
-![Bhargav's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=bhargav59&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=bhargav59&layout=compact&theme=radical)
+
+### 🌗 Dark/Light Mode Smart Rendering  
+<picture>
+  <source 
+    srcset="https://github-readme-stats-git-masterorg.vercel.app/api?username=bhargav59&show_icons=true&theme=radical" 
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://github-readme-stats-git-masterorg.vercel.app/api?username=bhargav59&show_icons=true&theme=default" 
+    media="(prefers-color-scheme: light)" 
+  />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=bhargav59&show_icons=true" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=bhargav59&layout=compact&theme=radical" 
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=bhargav59&layout=compact&theme=default" 
+    media="(prefers-color-scheme: light)" 
+  />
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=bhargav59&layout=compact" />
+</picture>
 
 </div>
 
+---
+
 ## 🌐 Connect With Me
 
-- 🌍 Portfolio: [bhargav59.github.io/Portfolio](http://bhargav-sah.me/)
-- 🐦 Twitter: [@itsbhargavsah](https://twitter.com/itsbhargavsah)
-- 📧 Email: bhaskarsah878@gmail.com
+- 🌍 Portfolio: **https://bhargav-sah.me/**
+- 🐦 Twitter: **@itsbhargavsah**
+- 📧 Email: **bhaskarsah878@gmail.com**
+
+---
 
 ## 💡 Current Focus
 
-I'm actively seeking **Cloud Engineering Internships** where I can:
-- Apply my AWS knowledge in production environments
-- Learn from experienced cloud professionals
-- Contribute to building robust, scalable infrastructure
-- Grow as a cloud engineer
+Actively looking for opportunities to:
+
+✔ Apply AWS in production environments  
+✔ Work with real infrastructure challenges  
+✔ Learn from senior cloud engineers  
+✔ Contribute to scalable, robust system design  
 
 ---
 
 <div align="center">
-  
-💼 **Open to opportunities** | ⭐ **Feel free to explore my repositories** | 🤝 **Always happy to connect!**
+
+### 🚀 **Open to Opportunities**  
+⭐ Explore my projects • 🤝 Let's connect • 📬 Reach out anytime  
 
 </div>

@@ -55,28 +55,17 @@ I'm an aspiring **Cloud Engineer** based in Bangalore, passionate about building
 
 ### 🌗 Dark/Light Mode Smart Rendering  
 <picture>
-  <source 
-    srcset="https://github-readme-stats-git-masterorg.vercel.app/api?username=bhargav59&show_icons=true&theme=radical" 
-    media="(prefers-color-scheme: dark)" 
-  />
-  <source 
-    srcset="https://github-readme-stats-git-masterorg.vercel.app/api?username=bhargav59&show_icons=true&theme=default" 
-    media="(prefers-color-scheme: light)" 
-  />
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=bhargav59&show_icons=true" />
+  <source srcset="https://github-readme-stats-git-masterorg.vercel.app/api?username=bhargav59&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats-git-masterorg.vercel.app/api?username=bhargav59&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
+  <img alt="Bhargav's GitHub stats" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=bhargav59&show_icons=true" />
 </picture>
 
 <picture>
-  <source 
-    srcset="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=bhargav59&layout=compact&theme=radical" 
-    media="(prefers-color-scheme: dark)" 
-  />
-  <source 
-    srcset="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=bhargav59&layout=compact&theme=default" 
-    media="(prefers-color-scheme: light)" 
-  />
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=bhargav59&layout=compact" />
+  <source srcset="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=bhargav59&layout=compact&theme=radical" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=bhargav59&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
+  <img alt="Top languages" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=bhargav59&layout=compact" />
 </picture>
+
 
 </div>
 
